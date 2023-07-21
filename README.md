@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Orson Leiziaga, Searching Light creator!</h1>
+  <h1>👋 Hi, I'm Orson Leiziaga</h1>
   <img src="https://clovertales.com/_next/image?url=https%3A%2F%2Fd3m7subrhfd0on.cloudfront.net%2Fresources%2FsnowBg-small.png&w=640&q=75)" align="right" width="50%" />
   <div align="left">
     <p>
