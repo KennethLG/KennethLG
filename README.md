@@ -1,7 +1,7 @@
 <div align="center">
   <div align="left">
     <h1>👋 Hi, I'm Orson Leiziaga, Searching Light creator!</h1>
-    <p>
+    <p style="text-align:justified">
     Welcome to my GitHub profile! I'm a Full Stack JavaScript developer specializing in backend technologies. I have a strong understanding of algorithms and a real passion for exploring new technologies. I love crafting clean, efficient and scalable backend systems. 
     </p>
   </div>
