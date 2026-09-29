@@ -14,11 +14,14 @@
 
 ### 🛠️ Stack
 **Daily driver:** TypeScript · NestJS · Fastify · Node.js · Prisma · PostgreSQL · Socket.IO
+
 **Infra:** Docker · AWS (ECS Fargate, RDS) · Terraform
+
 **Games:** GameMaker · learning Godot · still playing Elden Ring after 300h and platinum
+
 **Setup:** Arch (btw) · Hyprland · Neovim · tmux
 
 ### 📫 Find me
-[Email](mailto:orsonleiziaga@clovertales.com) · [Website](https://clovertales.com) · [YouTube](https://www.youtube.com/@clovertales) · [Itch.io](https://clovertales.itch.io/) · [Twitter](https://twitter.com/clovertales)
+[Email](mailto:orsonleiziaga@clovertales.com) · [Website](https://clovertales.com) · [YouTube](https://www.youtube.com/@clovertales)
 
 <sub>If my code works, don't touch it. If it doesn't, it's a feature. 🐛</sub>
