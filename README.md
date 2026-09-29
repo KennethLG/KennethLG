@@ -5,7 +5,7 @@
 </div>
 
 ### 🧉 About me
-- ⚙️ Freelance backend dev: real-time systems, WebSockets, wallets, state machines, and other things that break at 3 AM
+- ⚙️ Backend dev: real-time systems, WebSockets, APIs and other things that break at 3 AM
 - 💛 JavaScript/TypeScript lover. **I DON'T USE PHP** (Permanent Headache Provider)
 - 🍀 Founder of **[CloverTales](https://clovertales.com)**, we shipped **Searching Light** on Steam (a pixel puzzle-adventure I've basically been making since I was 15 in GameMaker)
 - 🖨️ I also 3D print tiny monsters in resin. Don't ask about the smell.
@@ -15,7 +15,7 @@
 ### 🛠️ Stack
 **Daily driver:** TypeScript · NestJS · Fastify · Node.js · Prisma · PostgreSQL · Socket.IO
 **Infra:** Docker · AWS (ECS Fargate, RDS) · Terraform
-**Games:** GameMaker · learning Godot
+**Games:** GameMaker · learning Godot · still playing Elden Ring after 300h and platinum
 **Setup:** Arch (btw) · Hyprland · Neovim · tmux
 
 ### 📫 Find me
