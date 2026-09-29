@@ -9,7 +9,7 @@
 - 💛 JavaScript/TypeScript lover. **I DON'T USE PHP** (Permanent Headache Provider)
 - 🍀 Founder of **[CloverTales](https://clovertales.com)**, we shipped **Searching Light** on Steam (a pixel puzzle-adventure I've basically been making since I was 15 in GameMaker)
 - 🖨️ I also 3D print tiny monsters in resin. Don't ask about the smell.
-- 🧠 ADHD-powered: 47 tabs open, all of them important
+- 🧠 ADHD-powered: either 0% productive or 12 hours of hyperfocus, no in-between
 - 🗣️ Español nativo · English · learning Français & 日本語 (slowly, very slowly)
 
 ### 🛠️ Stack
